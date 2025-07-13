@@ -1,4 +1,4 @@
-# HAabit Tracker CLI
+# Habit Tracker CLI
 This tracker helps users add, list and track daily habits using a text based interface
 ## Features
 Add new habits
